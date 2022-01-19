@@ -63,4 +63,4 @@ while i<len(que):  #this loop is use for indexing of questions
             break
 
     i+=1
-# print("you win the game and your winning price is-",price)
+
