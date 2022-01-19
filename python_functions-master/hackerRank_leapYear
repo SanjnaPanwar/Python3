@@ -1,0 +1,21 @@
+def is_leap(year):
+    leap = False
+    Leap=True
+    if year%400==0 :
+        if year%4==0:
+            return Leap
+        return Leap
+    # elif year%4==0:
+    #         return Leap
+    elif year%4==0 and year%100==0:
+            return leap
+    elif year%4==0:
+        return Leap
+    elif year%100==0:
+        return leap
+    else:
+    # Write your logic here
+    
+        return leap
+year=int(input("enter year:")
+is_leap(year)

@@ -1,0 +1,10 @@
+mark=[23,[23,45],34,[3,5,6]]
+print(mark[0])
+print(mark[1])
+print(mark[2])
+print(mark[3])
+print(mark[1][0])
+print(mark[1][1])
+print(mark[3][0])
+print(mark[3][1])
+print(mark[3][2])
