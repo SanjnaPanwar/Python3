@@ -10,7 +10,7 @@ def load_words():
     """
 
 
-    WORDLIST_FILENAME = "/home/sanjnapanwar/Desktop/hangaman/word.txt"
+    WORDLIST_FILENAME = "/home/sanjnapanwar/Desktop/python/python-Hangman-master/word.txt"
     print ("Loading word list from file...")
     inFile = open(WORDLIST_FILENAME, 'r')
     line = inFile.readline()
